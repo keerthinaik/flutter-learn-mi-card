@@ -1,6 +1,7 @@
 # mi_card
 
-A new Flutter project.
+![Alt text](screenshots/screeshot1.png)
+
 
 ## Getting Started
 
